@@ -1,0 +1,8 @@
+{
+  "name": "Tiwara IA",
+  "description": "An all-in-one application demonstrating the power and versatility of the Gemini API, including chat, image/video analysis and generation, real-time conversation, grounded search, and more.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
